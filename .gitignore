@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+*.pem
 
 # Folders
 _obj
